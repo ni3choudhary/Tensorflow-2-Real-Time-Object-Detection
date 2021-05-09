@@ -6,8 +6,8 @@
 - Python
 - TensorFlow
 - TensorBoard
-- Protobuf v3.4 or above
-- 
+- Protobuf v3 or above
+
 ### Steps For Installation - 
 
 (1) Tensorflow - To Download TensorFlow and TensorFlow GPU, you can use pip or conda commands:
@@ -26,7 +26,7 @@ pip install tensorflow-gpu
 - pip install jupyter
 - pip install matplotlib
 
-(2) Next Download Protobuf version 3.4 or above  and extract it.
+(2) Next Download Protobuf latest version and extract it.
 
 https://github.com/google/protobuf/releases 
 
